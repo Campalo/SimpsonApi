@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpsonApi/static/css/main.ee2b72ea.chunk.css",
+    "main.js": "/SimpsonApi/static/js/main.cdc46175.chunk.js",
+    "main.js.map": "/SimpsonApi/static/js/main.cdc46175.chunk.js.map",
+    "runtime~main.js": "/SimpsonApi/static/js/runtime~main.a76a13fd.js",
+    "runtime~main.js.map": "/SimpsonApi/static/js/runtime~main.a76a13fd.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/SimpsonApi/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/SimpsonApi/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/SimpsonApi/index.html",
+    "precache-manifest.682f53473f1a9d8b9fca3473e9f1a1ac.js": "/SimpsonApi/precache-manifest.682f53473f1a9d8b9fca3473e9f1a1ac.js",
+    "service-worker.js": "/SimpsonApi/service-worker.js",
+    "static/css/main.ee2b72ea.chunk.css.map": "/SimpsonApi/static/css/main.ee2b72ea.chunk.css.map"
+  }
+}
