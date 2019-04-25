@@ -37,8 +37,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Tell us your favourite Simpson character</h1>
-        <h2>We'll tell you his.er best quote!</h2>
+        <h1>Do you know all the famous quotes from the Simpson?</h1>
+        <h2>Click to discover if you're a true fan!</h2>
         <SelectSimpson selectChar={() => this.getSimpson()} />
         <DisplaySimpson mySimpson={this.state.mySimpson} />
       </div>

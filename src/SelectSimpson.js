@@ -4,7 +4,7 @@ import React from "react";
 const SelectSimpson = ({ selectChar }) => {
   return (
     <div>
-      <button onClick={selectChar}> Select your favourite character</button>
+      <button onClick={selectChar}> Cliiiik </button>
     </div>
   );
 };
