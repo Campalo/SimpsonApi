@@ -2,8 +2,7 @@
   text-align: center;
   background-color: #26034e;
   color: yellow;
-  height: 100vh;
-  padding: 50px;
+  padding: 30px;
 }
 
 h1 {
@@ -35,4 +34,5 @@ button {
 img {
   padding-bottom: 20px;
   background-color: #ceabf7;
+  height: 400px;
 }
